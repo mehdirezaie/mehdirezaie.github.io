@@ -1,0 +1,23 @@
+theme: jekyll-theme-cayman
+title: Welcome to Mehdi Rezaie's homepage!
+description: My academic and personal homepage
+locale: en_US
+
+
+owner:
+  name: Mehdi Rezaie
+  avatar: profile_pic_aas.JPG
+  bio: "This is a sample Jekyll academic website."
+  email: mr095415@ohio.edu
+  # Do not include the @ symbol in your Twitter username
+  twitter: mthecosmologist
+  linkedin: mehdi-rezaie
+  github: mehdirezaie
+  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  researchgate: #username
+  mendeley: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    scholar: medirz90
