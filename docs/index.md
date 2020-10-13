@@ -2,7 +2,7 @@
 
 I am a fifth-year graduate student in physics at Ohio University. My Ph.D. dissertation is focused on developing a new method based on Artificial Neural Networks to mitigate the systematic effects that introduce spurious fluctuations into our large scale clustering measurements, a pivotal step to get a robust constraint on the nature of Dark Energy. This is [my Google Scholar](https://scholar.google.com/citations?user=C2Dv6BMAAAAJ&hl=en&oi=ao)!
 
-![](../images/profile_pic_aas.JPG)
+![](../images/profile_pic_aas.jpg)
 
 ### Markdown
 
